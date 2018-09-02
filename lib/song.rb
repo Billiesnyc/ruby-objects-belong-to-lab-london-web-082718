@@ -8,6 +8,8 @@ class Song
     @artist = artist
   end
   
-  
+  def name 
+    
+  end
   
 end
