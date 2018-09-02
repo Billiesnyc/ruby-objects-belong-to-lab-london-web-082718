@@ -1,6 +1,6 @@
 class Song 
   
-  attr_accessible :title 
+  attr_accessor :title 
   attr_reader :artist
   
   def initialize(title)
