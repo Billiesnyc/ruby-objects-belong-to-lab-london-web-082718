@@ -1,7 +1,9 @@
 class Author 
   
-  def initialize 
+  def initialize
     
   end
+  
+  
   
 end
